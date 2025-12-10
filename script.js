@@ -39,9 +39,19 @@
 // Partie Pratique  — Niveau Moyen
 // Exercice 4 : Boucles (moyen)
 
-for(let i=1; i<=50; i++){
-    console.log(i);    
-    if(i%2==0){
-        console.log("nombre paire:", i);
-    }
-} 
+// for(let i=1; i<=50; i++){
+//     console.log(i);    
+//     if(i%2==0){
+//         console.log("nombre paire:", i);
+//     }
+// } 
+
+// Exercice 5 : Fonctions (moyen)
+
+// function sum(a,b){
+//     return a+b;
+// }
+// console.log("Résultat de sum(5, 3) :", sum(5, 3));
+
+// const sumArrow = (a,b) => a+b;
+// console.log("Résultat de sumArrow(5, 3) :", sumArrow(5, 3));
