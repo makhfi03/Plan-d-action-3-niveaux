@@ -23,4 +23,16 @@
 //     console.log("Mineur");
 // }
 
+// Exercice 3 : Calcul simple (débutant)
+
+// let maths = prompt("Entrez votre note de maths :")
+// let pc = prompt("Entrez votre note de physique:")
+// let arabe = prompt("Entrez votre note d'arabe:")
+
+// let moyenne = (maths+pc+arabe)/3
+// if(moyenne>=10){
+//     console.log("admis");
+// }else{
+//     console.log("ajourné");
+// }
 
