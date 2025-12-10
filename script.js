@@ -36,3 +36,12 @@
 //     console.log("ajourné");
 // }
 
+// Partie Pratique  — Niveau Moyen
+// Exercice 4 : Boucles (moyen)
+
+for(let i=1; i<=50; i++){
+    console.log(i);    
+    if(i%2==0){
+        console.log("nombre paire:", i);
+    }
+} 
