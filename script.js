@@ -13,4 +13,14 @@
 // console.log(typeof note1);
 // console.log(typeof note2);
 
+// Exercice 2 : Conditions simples (débutant)
+
+// let age = prompt("Entrez votre âge :")
+// if(age>=18){
+//     console.log("Majeur");
+// }
+// else{
+//     console.log("Mineur");
+// }
+
 
