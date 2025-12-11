@@ -63,12 +63,12 @@
 // Partie Pratique — Niveau Avancé
 // Exercice 7 : Manipulation avancée des tableaux
 
-let personne = [
-    {id: 1, nom: "ghita", age: 22},
-    {id: 2, nom: "fatna", age: 17},
-    {id: 3, nom: "salma", age: 18},
-    {id: 4, nom: "mohamed", age: 19}
-]
+// let personne = [
+//     {id: 1, nom: "ghita", age: 22},
+//     {id: 2, nom: "fatna", age: 17},
+//     {id: 3, nom: "salma", age: 18},
+//     {id: 4, nom: "mohamed", age: 19}
+// ]
 
 // let filtre = personne.filter(n=> n.age>18);
 // console.log(filtre);
@@ -78,3 +78,14 @@ let personne = [
 
 // let moyAge = personne.reduce((acc,n) => (acc + n.age),0)/personne.length;
 // console.log(moyAge);
+
+// Exercice 8 : Objet + destructuring
+
+// let user = {
+//     nom: "ghita",
+//     email: "ghita@gmail.com",
+//     age: 22
+// }
+
+// const { nom, email, age } = user;
+// console.log(`Username : ${nom}, Email : ${email}, Âge : ${age} ans.`);
