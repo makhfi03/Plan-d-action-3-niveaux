@@ -89,3 +89,11 @@
 
 // const { nom, email, age } = user;
 // console.log(`Username : ${nom}, Email : ${email}, Âge : ${age} ans.`);
+
+// Exercice 9 : Spread & fusion de tableaux
+
+// let clients1 = [1,2,3,6]
+// let clients2 = [3,4,5]
+
+// const result = [...new Set([...clients1, ...clients2])];
+// console.log(result);
