@@ -97,3 +97,24 @@
 
 // const result = [...new Set([...clients1, ...clients2])];
 // console.log(result);
+
+//Exercice DOM Bonus
+
+// let input = document.getElementById("txt")
+// let btn = document.getElementById("boutton")
+// let text = document.getElementById("paragraphe")
+
+// btn.addEventListener("click", () => {
+//     let contenu = input.value
+//     text.textContent = contenu;
+//     localStorage.setItem("test", contenu)
+// });
+
+// let contenuSave = localStorage.getItem("test");
+//   if (contenuSave) {
+//     text.textContent = contenuSave;
+//   }
+
+// Mini-Projet Final
+// Titre : To-Do List Avancée
+
